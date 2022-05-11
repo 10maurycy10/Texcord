@@ -5,8 +5,8 @@
 // @description Typeset (latex) equations in Discord. (uses KaTeX)
 // @match       https://discord.com/*
 // @resource    katexCSS https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css
-// @require     https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js
 // @require     https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.js
+// @require     https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js
 // @grant       GM_getResourceText
 // @grant       GM_addStyle
 // @license     GPL
